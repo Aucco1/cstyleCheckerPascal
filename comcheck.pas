@@ -1,4 +1,4 @@
-program CommentChecker;
+program comcheck;
 
 {$mode objfpc}{$H+} 
 
